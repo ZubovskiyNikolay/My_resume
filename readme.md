@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1Yt60JeijO1-UkxeWbg5dvM1z0daNcZO8/view?usp=shari
 
 
 ### 3. Компания Pro-test.studio
-Май 2024 - по настоящее время
+Март 2024 - по настоящее время
 
 https://pro-test.studio/
 
