@@ -4,8 +4,10 @@
 
 email: zubriknb@mail.ru
 
+GitHub: https://github.com/ZubovskiyNikolay/QA_-
+
 #### Образование:
-- 1996
+- высшее
 - МИФИ
 - Автоматики и электроники, инженер-физик
 
